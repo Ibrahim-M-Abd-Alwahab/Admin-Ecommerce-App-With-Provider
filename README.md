@@ -6,7 +6,7 @@ Splash Screen             |  Welcome Screen
 
 Login Screen             |  SignUp Screen
 :-------------------------:|:-------------------------:
-![11](https://user-images.githubusercontent.com/77027841/220667614-c6e7c11f-7f8e-4ce6-b922-700a57f85cec.jpeg) |  ![9](https://user-images.githubusercontent.com/77027841/220667664-1e0a0305-99e7-4477-ac75-5a744f42efc5.jpeg)
+![11](https://user-images.githubusercontent.com/77027841/220667614-c6e7c11f-7f8e-4ce6-b922-700a57f85cec.jpeg) |  ![9](https://user-images.githubusercontent.com/77027841/220667664-1e0a0305-99e7-4477-ac75-5a744f42efc5.jpeg) | ![10](https://user-images.githubusercontent.com/77027841/220668122-f13eb3ee-a74e-48de-96c6-4aab0f9b5bd5.jpeg)
 
 
 Forgot Password Screen      | -       
