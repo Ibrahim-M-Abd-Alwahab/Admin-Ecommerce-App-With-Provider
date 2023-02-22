@@ -10,5 +10,5 @@ Login Screen             |  SignUp Screen
 
 
 Forgot Password Screen             
-:-------------------------:|
+:-------------------------:|:-------------------------:
 ![10](https://user-images.githubusercontent.com/77027841/220668122-f13eb3ee-a74e-48de-96c6-4aab0f9b5bd5.jpeg) |  
