@@ -9,16 +9,17 @@ Login Screen             |  SignUp Screen
 ![11](https://user-images.githubusercontent.com/77027841/220667614-c6e7c11f-7f8e-4ce6-b922-700a57f85cec.jpeg) |  ![9](https://user-images.githubusercontent.com/77027841/220667664-1e0a0305-99e7-4477-ac75-5a744f42efc5.jpeg)
 
 
-Forgot Password Screen      | *       
+Forgot Password Screen      | -       
 :-------------------------:|:-------------------------:
 ![10](https://user-images.githubusercontent.com/77027841/220668122-f13eb3ee-a74e-48de-96c6-4aab0f9b5bd5.jpeg) |  
 
 
-Home Screen      | الصفحة الرئيسية       
+Home Screen      | Home Screen (Arabic)       
 :-------------------------:|:-------------------------:
 ![8](https://user-images.githubusercontent.com/77027841/220668874-a378d84b-01ce-441a-9f1d-ba77610a3a42.jpeg) | ![7](https://user-images.githubusercontent.com/77027841/220668934-cf320cd6-2455-465d-888a-d398336a0943.jpeg)
 
 
-Home Screen      | الصفحة الرئيسية       
+All Advertisement      | Add New Advertisement      
 :-------------------------:|:-------------------------:
-![8](https://user-images.githubusercontent.com/77027841/220668874-a378d84b-01ce-441a-9f1d-ba77610a3a42.jpeg) | ![7](https://user-images.githubusercontent.com/77027841/220668934-cf320cd6-2455-465d-888a-d398336a0943.jpeg)
+![6](https://user-images.githubusercontent.com/77027841/220669535-e9dc2d93-fb99-49d8-9fea-076c525d23bd.jpeg) | ![5](https://user-images.githubusercontent.com/77027841/220669587-9b4b8672-8d7c-4909-a730-0e1c178b3d1a.jpeg)
+
