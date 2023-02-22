@@ -23,3 +23,6 @@ All Advertisement      | Add New Advertisement
 :-------------------------:|:-------------------------:
 ![6](https://user-images.githubusercontent.com/77027841/220669535-e9dc2d93-fb99-49d8-9fea-076c525d23bd.jpeg) | ![5](https://user-images.githubusercontent.com/77027841/220669587-9b4b8672-8d7c-4909-a730-0e1c178b3d1a.jpeg)
 
+All Categories      | Add New Advertisement      
+:-------------------------:|:-------------------------:
+ ![1](https://user-images.githubusercontent.com/77027841/220670074-8b1037b2-0e87-4a09-bf0c-6951b8c12692.jpeg) | ![14](https://user-images.githubusercontent.com/77027841/220671007-9cf75bca-c6ff-4abc-9fc9-8db4fadabd63.jpeg)
