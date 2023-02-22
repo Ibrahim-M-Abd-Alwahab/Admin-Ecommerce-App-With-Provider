@@ -12,3 +12,13 @@ Login Screen             |  SignUp Screen
 Forgot Password Screen      | *       
 :-------------------------:|:-------------------------:
 ![10](https://user-images.githubusercontent.com/77027841/220668122-f13eb3ee-a74e-48de-96c6-4aab0f9b5bd5.jpeg) |  
+
+
+Home Screen      | الصفحة الرئيسية       
+:-------------------------:|:-------------------------:
+![8](https://user-images.githubusercontent.com/77027841/220668874-a378d84b-01ce-441a-9f1d-ba77610a3a42.jpeg) | ![7](https://user-images.githubusercontent.com/77027841/220668934-cf320cd6-2455-465d-888a-d398336a0943.jpeg)
+
+
+Home Screen      | الصفحة الرئيسية       
+:-------------------------:|:-------------------------:
+![8](https://user-images.githubusercontent.com/77027841/220668874-a378d84b-01ce-441a-9f1d-ba77610a3a42.jpeg) | ![7](https://user-images.githubusercontent.com/77027841/220668934-cf320cd6-2455-465d-888a-d398336a0943.jpeg)
